@@ -1,0 +1,13 @@
+.navbar-brand{
+  font-weight: lighter;
+}
+
+.nav-item .nav-link{
+  color: white;
+}
+
+.selected{
+  color: black !important ;
+  background-color: aqua;
+  border-radius: 5px;
+}
